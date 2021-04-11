@@ -1,2 +1,2 @@
-/// A very nice struct, instead [`Hello`] doesn't exist.
+/// A very nice struct.
 pub struct Hi {}
